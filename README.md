@@ -25,4 +25,18 @@ Libraries Used:
 
 The logs of the trained models are visible at [here](https://wandb.ai/24f2000010-indian-institute-of-technology-madras/24f2000010-t12026)  
 
+Model 1 CNN : [Kaggle Link](https://www.kaggle.com/models/sreekaranreddy2005/model1-cnn)  
+
+Model 2 CRNN : [Kaggle Link](https://www.kaggle.com/models/sreekaranreddy2005/model2-crnn)  
+
+Model 3 Finetuned-AST :[Kaggle Link](https://www.kaggle.com/models/sreekaranreddy2005/finetuned-ast)  
+
+
+Dataset Link : [HuggingFace Link](https://huggingface.co/datasets/24f2000010/messy-mashup-augmented)  
+Spectogram Dataset Link : [Kaggle Link](https://www.kaggle.com/datasets/sreekaranreddy2005/mel-spectograms)  
+Spectogram Dataset Labels Link : [Kaggle Link](https://www.kaggle.com/datasets/sreekaranreddy2005/mel-spectograms-labels)
+
+
+
+
 P.Sreekaran Reddy (24f2000010)

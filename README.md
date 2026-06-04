@@ -29,6 +29,7 @@ Model 1 CNN : [Kaggle Link](https://www.kaggle.com/models/sreekaranreddy2005/mod
 Model 2 CRNN : [Kaggle Link](https://www.kaggle.com/models/sreekaranreddy2005/model2-crnn)  
 
 Model 3 Finetuned-AST :[Kaggle Link](https://www.kaggle.com/models/sreekaranreddy2005/finetuned-ast)  
+*HuggingFace Deployment Link* : [Deployment Link](https://huggingface.co/spaces/24f2000010/song-genre-classification)
 
 
 Dataset Link : [HuggingFace Link](https://huggingface.co/datasets/24f2000010/messy-mashup-augmented)  
